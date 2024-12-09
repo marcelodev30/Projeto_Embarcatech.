@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main(){
-    printf("Hello Horld");
+    printf("Hello Horld\n");
 
 
     struct Aluno
